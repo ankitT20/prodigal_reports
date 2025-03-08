@@ -59,7 +59,7 @@ This report synthesizes information from several sources to provide a comprehens
   - [Alignment with Human Intent](#alignment-with-human-intent)
   - [Ethical Considerations](#ethical-considerations)
 - [8. Staying Informed and Future Directions](#8-staying-informed-and-future-directions)
-  - [Resources for Staying Updated](#resources-for-staying-updated:)
+  - [Resources for Staying Updated](#resources-for-staying-updated)
   - [Future Directions in LLM Research](#future-directions-in-llm-research)
 - [9. Building Your Own GPT (Educational Perspective)](#9-building-your-own-gpt-educational-perspective)
   - [Nanogpt](#nanogpt)
@@ -202,7 +202,8 @@ Despite their advancements, LLMs face several challenges and limitations:
 ## 8. Staying Informed and Future Directions
 
 The field of LLMs is rapidly evolving, with continuous advancements in models, training techniques, and applications. 
-#### Resources for staying updated include:
+
+#### Resources for staying updated include
 
 *   **El Marina (llm.report):** A leaderboard for ranking LLMs based on human evaluations.
 *   **Hugging Face Hub:** A platform for discovering and sharing models, datasets, and tokenizers, including open-weight releases.
@@ -211,7 +212,7 @@ The field of LLMs is rapidly evolving, with continuous advancements in models, t
 *   **GitHub Repositories (e.g., Karpathy's nanogpt, minbpe):** Code implementations and resources related to LLMs and their components.
 *   **LM Studio:** An application for running LLMs locally.
 
-#### Future directions in LLM research include:
+#### Future directions in LLM research include
 
 *   **Developing even larger and more capable models.**
 *   **Improving reasoning and factual accuracy.**
