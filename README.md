@@ -67,9 +67,9 @@ This report synthesizes information from several sources to provide a comprehens
   - [Micrograd](#micrograd)
 - [10. Conclusion](#10-conclusion)
 - [11. Detailed Explanation](#11-detailed-explanation)
-  - [Detailed Report for Video 1](#detailed-report-for-video-1)
-  - [Detailed Report for Video 2](#detailed-report-for-video-2)
-  - [Detailed Report for Video 3](#detailed-report-for-video-3)
+  - [Detailed Report for Video 1](#detailed-report-for-video-1-lets-build-gpt-from-scratch-in-code-spelled-out)
+  - [Detailed Report for Video 2](#detailed-report-for-video-2-lets-build-the-gpt-tokenizer)
+  - [Detailed Report for Video 3](#detailed-report-for-video-3-deep-dive-into-llms-like-chatgpt)
 
 
 ## 1. Building Blocks: Pre-training
