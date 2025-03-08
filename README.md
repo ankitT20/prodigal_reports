@@ -59,8 +59,8 @@ This report synthesizes information from several sources to provide a comprehens
   - [Alignment with Human Intent](#alignment-with-human-intent)
   - [Ethical Considerations](#ethical-considerations)
 - [8. Staying Informed and Future Directions](#8-staying-informed-and-future-directions)
-  - [Resources for Staying Updated](#resources-for-staying-updated)
-  - [Future Directions in LLM Research](#future-directions-in-llm-research)
+  - [Resources for Staying Updated](#resources-for-staying-updated-include)
+  - [Future Directions in LLM Research](#future-directions-in-llm-research-include)
 - [9. Building Your Own GPT (Educational Perspective)](#9-building-your-own-gpt-educational-perspective)
   - [Nanogpt](#nanogpt)
   - [MinBPE](#minbpe)
@@ -242,8 +242,8 @@ Large Language Models represent a significant advancement in artificial intellig
 
 ## 11. Detailed Explanation
 
-[Detailed Report for Video 1: Let's build GPT: from scratch, in code, spelled out.](/Days_16_30/report_video1.md)
+####  [Detailed Report for Video 1: Let's build GPT: from scratch, in code, spelled out.](/Days_16_30/report_video1.md)
 
-[Detailed Report for Video 2: Let's build the GPT Tokenizer](/Days_16_30/report_video2.md)
+####  [Detailed Report for Video 2: Let's build the GPT Tokenizer](/Days_16_30/report_video2.md)
 
-[Detailed Report for Video 3: Deep Dive into LLMs like ChatGPT](/Days_16_30/report_video3.md)
+####  [Detailed Report for Video 3: Deep Dive into LLMs like ChatGPT](/Days_16_30/report_video3.md)
