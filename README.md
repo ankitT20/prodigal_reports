@@ -2,6 +2,76 @@
 
 This report synthesizes information from several sources to provide a comprehensive overview of Large Language Models (LLMs), drawing insights into their architecture, training methodologies, capabilities, limitations, and the surrounding ecosystem.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [1. Building Blocks: Pre-training](#1-building-blocks-pre-training)
+  - [Data Acquisition and Processing](#data-acquisition-and-processing)
+  - [Base Model Architecture](#base-model-architecture)
+  - [Next-Token Prediction](#next-token-prediction)
+  - [Scale](#scale)
+  - [Base Model Release](#base-model-release)
+- [2. Becoming an Assistant: Supervised Fine-Tuning (SFT)](#2-becoming-an-assistant-supervised-fine-tuning-sft)
+  - [Conversational Data](#conversational-data)
+  - [Training Process](#training-process)
+  - [Instruction Following](#instruction-following)
+  - [Data Format](#data-format)
+  - [Limitations of SFT](#limitations-of-sft)
+- [3. Refining Intelligence: Reinforcement Learning (RL)](#3-refining-intelligence-reinforcement-learning-rl)
+  - [Human Preference Data](#human-preference-data)
+  - [Reward Modeling](#reward-modeling)
+  - [Policy Optimization](#policy-optimization)
+  - [Iterative Refinement](#iterative-refinement)
+  - [DeepSeek-R1 Findings](#deepseek-r1-findings)
+- [4. Tokenization: The Language of LLMs](#4-tokenization-the-language-of-llms)
+  - [Character-level vs. Subword Tokenization](#character-level-vs-subword-tokenization)
+  - [Vocabulary Size](#vocabulary-size)
+  - [Special Tokens](#special-tokens)
+  - [Tokenization Libraries](#tokenization-libraries)
+  - [Custom Tokenizers](#custom-tokenizers)
+  - [Impact on Performance](#impact-on-performance)
+- [5. Evaluation and Benchmarks](#5-evaluation-and-benchmarks)
+  - [Question Answering (QA)](#question-answering-qa)
+  - [Reading Comprehension](#reading-comprehension)
+  - [Natural Language Inference (NLI)](#natural-language-inference-nli)
+  - [Translation](#translation)
+  - [Summarization](#summarization)
+  - [Code Generation](#code-generation)
+  - [Multilingual Benchmarks](#multilingual-benchmarks)
+  - [Human Evaluation](#human-evaluation)
+- [6. Capabilities and Applications](#6-capabilities-and-applications)
+  - [Text Generation](#text-generation)
+  - [Chatbots and Conversational AI](#chatbots-and-conversational-ai)
+  - [Question Answering](#question-answering)
+  - [Translation](#translation)
+  - [Summarization](#summarization)
+  - [Code Generation and Debugging](#code-generation-and-debugging)
+  - [Tool Use](#tool-use)
+  - [Multimodal Applications](#multimodal-applications)
+  - [Speech Generation](#speech-generation)
+- [7. Challenges and Limitations](#7-challenges-and-limitations)
+  - [Hallucinations](#hallucinations)
+  - [Bias](#bias)
+  - [Toxicity](#toxicity)
+  - [Data Contamination](#data-contamination)
+  - [Computational Cost](#computational-cost)
+  - [Context Window Limitations](#context-window-limitations)
+  - [Alignment with Human Intent](#alignment-with-human-intent)
+  - [Ethical Considerations](#ethical-considerations)
+- [8. Staying Informed and Future Directions](#8-staying-informed-and-future-directions)
+  - [Resources for Staying Updated](#resources-for-staying-updated)
+  - [Future Research Directions](#future-research-directions)
+- [9. Building Your Own GPT (Educational Perspective)](#9-building-your-own-gpt-educational-perspective)
+  - [Nanogpt](#nanogpt)
+  - [MinBPE](#minbpe)
+  - [Micrograd](#micrograd)
+- [10. Conclusion](#10-conclusion)
+- [11. Detailed Explanation](#11-detailed-explanation)
+  - [Detailed Report for Video 1](#detailed-report-for-video-1)
+  - [Detailed Report for Video 2](#detailed-report-for-video-2)
+  - [Detailed Report for Video 3](#detailed-report-for-video-3)
+
+
 ## 1. Building Blocks: Pre-training
 
 The foundation of LLMs like ChatGPT lies in the **pre-training stage**. This initial phase involves training a neural network on a **massive dataset of text from the internet**. The goal is to create a **base model** that understands the statistical patterns and relationships within language.
@@ -118,3 +188,11 @@ These resources help demystify the complex technology behind LLMs by providing h
 ## 10. Conclusion
 
 Large Language Models represent a significant advancement in artificial intelligence, demonstrating remarkable capabilities in understanding and generating human language. Their development involves a complex pipeline of pre-training, fine-tuning, and reinforcement learning, relying on massive datasets and sophisticated neural network architectures like the Transformer. While LLMs offer tremendous potential across various applications, it is crucial to be aware of their limitations and challenges, including hallucinations, bias, and ethical considerations. Continuous research and development are focused on improving their capabilities, addressing their limitations, and ensuring their responsible use. The availability of educational resources and open-weight models fosters greater understanding and innovation in this rapidly evolving field.
+
+## 11. Detailed Explanation
+
+[Detailed Report for Video 1: Let's build GPT: from scratch, in code, spelled out.](/Days_16_30/report_video1.md)
+
+[Detailed Report for Video 2: Let's build the GPT Tokenizer](/Days_16_30/report_video2.md)
+
+[Detailed Report for Video 3: Deep Dive into LLMs like ChatGPT](/Days_16_30/report_video3.md)
