@@ -1,4 +1,4 @@
-# Summary report  for (Let's build GPT: from scratch, in code, spelled out)[https://www.youtube.com/watch?v=kCc8FmEb1nY]
+# Summary report  for [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 # Building GPT from Scratch: A Summary Report
 
