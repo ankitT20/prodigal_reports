@@ -5,3 +5,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: [Comprehensive Report on Large Language Models]
 description: [This report synthesizes information from several sources to provide a comprehensive overview of Large Language Models (LLMs), drawing insights into their architecture, training methodologies, capabilities, limitations, and the surrounding ecosystem.]
 show_downloads: false
+is_project_page: false
