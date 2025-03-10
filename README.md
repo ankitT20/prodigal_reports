@@ -1,6 +1,6 @@
-<!-- # Comprehensive Report on Large Language Models
+# Comprehensive Report on Large Language Models
 
-This report synthesizes information from several sources to provide a comprehensive overview of Large Language Models (LLMs), drawing insights into their architecture, training methodologies, capabilities, limitations, and the surrounding ecosystem. -->
+<!-- This report synthesizes information from several sources to provide a comprehensive overview of Large Language Models (LLMs), drawing insights into their architecture, training methodologies, capabilities, limitations, and the surrounding ecosystem. -->
 
 ## Table of Contents
 
