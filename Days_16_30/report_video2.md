@@ -1,8 +1,8 @@
 # Summary report  for [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
-# Tokenization in Large Language Models: A Summary Report
+<!-- # Tokenization in Large Language Models: A Summary Report -->
 
-## 1. Introduction
+## 1. Introduction to Tokenization in LLMs
 
 **Tokenization is a fundamental pre-processing step in Natural Language Processing (NLP), particularly crucial for Large Language Models (LLMs)**. It involves breaking down raw text into smaller units called **tokens**, which are then used as the basic building blocks for the model. Andrej Karpathy's video, "Let's build the GPT Tokenizer," underscores the significance of understanding tokenization, highlighting it as a common root of various complexities, unexpected behaviors, and even potential issues in LLMs. This report summarizes the techniques discussed, provides relevant code insights, and outlines key concepts related to tokenization in the context of modern LLMs.
 

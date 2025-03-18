@@ -2,7 +2,7 @@
 
 ## 1 Introduction to Large Language Models
 
-This report summarizes the key concepts and techniques discussed in Andrej Karpathy's YouTube video "[Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)". The video provides a comprehensive yet accessible introduction to the architecture, training, and capabilities of large language models (LLMs) like ChatGPT, aiming to demystify the technology behind these powerful tools. This report will cover the sequential stages of LLM development: pre-training, supervised fine-tuning (SFT), and reinforcement learning (RL), drawing upon the video and the referenced materials.
+This report  provides a comprehensive yet accessible introduction to the architecture, training, and capabilities of large language models (LLMs) like ChatGPT, aiming to demystify the technology behind these powerful tools. This report will cover the sequential stages of LLM development: pre-training, supervised fine-tuning (SFT), and reinforcement learning (RL), drawing upon the video and the referenced materials.
 
 ## 2 Pre-training: Acquiring Foundational Knowledge
 

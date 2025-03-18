@@ -1,10 +1,10 @@
 # Summary report  for [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
-# Building GPT from Scratch: A Summary Report
+<!-- # Building GPT from Scratch: A Summary Report
 
-This report summarizes the techniques and tutorial code presented in Andrej Karpathy's YouTube video "Let's build GPT: from scratch, in code, spelled out." and its companion Colab notebook "gpt-dev.ipynb", detailing the process of creating a Generative Pre-trained Transformer (GPT) model from the ground up.
+This report summarizes the techniques and tutorial code presented in Andrej Karpathy's YouTube video "Let's build GPT: from scratch, in code, spelled out." and its companion Colab notebook "gpt-dev.ipynb", detailing the process of creating a Generative Pre-trained Transformer (GPT) model from the ground up. -->
 
-## 1. Introduction
+## 1. Introduction to Building GPT from Scratch
 
 The video provides a step-by-step guide to understanding and implementing the core components of a GPT model, starting with basic language modeling concepts and progressively building towards a multi-layered Transformer network. The goal is to demystify the inner workings of large language models like ChatGPT by constructing a similar, albeit much smaller, model trained on the Tiny Shakespeare dataset.
 
